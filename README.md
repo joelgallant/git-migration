@@ -43,6 +43,7 @@ and a couple hours.
 The main hosting providers are
 
 | Host | Pricing |
+| ---- | ------- |
 | [Github](https://github.com/) | $25 / month (5 users) + $9 / user |
 | [Bitbucket](https://bitbucket.org) | $10 / month (10 users) |
 | [Gitlab](https://about.gitlab.com/) | $35 / month (30 users) |
