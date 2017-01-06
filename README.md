@@ -30,5 +30,16 @@ In terms of overall view for a multi-project svn server, there are options.
 3. "dig deeper": https://www.codecademy.com/learn/learn-git
 
 # Structure
+There are some things that should and should not be checked in to version
+control. Version control is good for source code. It's designed for plaintext,
+human readable code. It is not good for databases, builds, some images / assets,
+large files, etc. There are better systems to host these files, meant for that
+purpose. [gitignore](https://www.gitignore.io/) is a good resource to automate
+the ignoring of such files.
+
+Normal software projects follow a broadly agreed upon structure, with a README,
+LICENSE, etc. It is a good idea to modularize projects into digestible pieces,
+that are usable on their own. This enforces good practices, rather than relying
+on specific system setups.
 
 # History
