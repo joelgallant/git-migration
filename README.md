@@ -46,3 +46,9 @@ on specific system setups. See [project-desc](https://github.com/joelgallant/pro
 for a template.
 
 # History
+When migrating from scm to git, history can be kept in a few different ways.
+
+1. Full migration of trunk -> master, tags -> branches, revisions -> commits,
+   with user data migrated
+2. Partial migration, without tags or only to a specified depth
+3. "Lossy" migration, without any revisions, using svn as an archive for history
