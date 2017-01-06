@@ -39,6 +39,14 @@ and a couple hours.
 4. Once tools & the team are comfortable with git, migrate and retire the svn 
    server
 
+### Hosting
+The main hosting providers are
+
+| Host | Pricing |
+| [Github](https://github.com/) | $25 / month (5 users) + $9 / user |
+| [Bitbucket](https://bitbucket.org) | $10 / month (10 users) |
+| [Gitlab](https://about.gitlab.com/) | $35 / month (30 users) |
+
 # Learning git
 1. "try git": https://try.github.io
 2. "learn git branching": http://learngitbranching.js.org
