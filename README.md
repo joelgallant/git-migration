@@ -5,6 +5,8 @@ how to deal with normal pitfalls of migration, like data storage and proper
 project structure.
 
 ### FAQs
+- [Why use version control?](http://mikemcquaid.com/2014/01/18/why-use-version-control/)
+- [Mote on why to use version control](https://stackoverflow.com/questions/1408450/why-should-i-use-version-control)
 - [Why git?](https://www.atlassian.com/git/tutorials/why-git/)
 
 # Process
