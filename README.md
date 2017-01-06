@@ -25,6 +25,9 @@ In terms of overall view for a multi-project svn server, there are options.
 - Migrate some projects to git, migrate some to datastorage (such as dropbox), and continue to use svn for others
 
 # Learning git
+1. "try git": https://try.github.io
+2. "learn git branching": http://learngitbranching.js.org
+3. "dig deeper": https://www.codecademy.com/learn/learn-git
 
 # Structure
 
