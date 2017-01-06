@@ -12,6 +12,7 @@ There are a number of ways a team can migrate. Some require lots of downtime and
 a development freeze, some require no upstart time at all.
 
 Some of the main methods are
+
 | Migration | Second Step | Pros | Cons |
 | --------- | ----------- | ---- | ---- |
 | svn to git | Split repositories | git has full history | Large repositories even for small projects |
