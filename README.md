@@ -40,6 +40,7 @@ the ignoring of such files.
 Normal software projects follow a broadly agreed upon structure, with a README,
 LICENSE, etc. It is a good idea to modularize projects into digestible pieces,
 that are usable on their own. This enforces good practices, rather than relying
-on specific system setups.
+on specific system setups. See [project-desc](https://github.com/joelgallant/project-desc)
+for a template.
 
 # History
