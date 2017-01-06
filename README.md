@@ -26,6 +26,19 @@ In terms of overall view for a multi-project svn server, there are options.
 - Use svn and git simultaneously
 - Migrate some projects to git, migrate some to datastorage (such as dropbox), and continue to use svn for others
 
+### [Migrate to Git from SVN](https://www.atlassian.com/git/tutorials/migrating-overview/)
+The above tutorial goes step by step on how to transition, and I will summarize.
+
+There is a `git svn` command to migrate repositories, so the actual migration
+step is actually quite straightforward, often happening in two or three commands
+and a couple hours.
+
+1. Synchronize history of git with svn (full or partial) (or skip this step)
+2. Host git clone through bitbucket / github / gitlab, in **read only** mode
+3. Prepare processes, scripts, etc. for using the git repository
+4. Once tools & the team are comfortable with git, migrate and retire the svn 
+   server
+
 # Learning git
 1. "try git": https://try.github.io
 2. "learn git branching": http://learngitbranching.js.org
