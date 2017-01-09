@@ -21,6 +21,7 @@ a development freeze, some require no upstart time at all.
 | None | Split repositories | lightweight, proper structure | git does not have full history |
 
 In terms of overall view for a multi-project svn server, there are options.
+
 - Migrate some projects to git, and continue to use svn for others
 - Migrate all projects to git
 - Use svn and git simultaneously
